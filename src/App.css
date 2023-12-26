@@ -1,0 +1,37 @@
+*{
+  text-align: center;
+}
+.Underline{
+ border:2px solid ;
+ width: 190px;
+ color: purple;
+ margin-left: 30px;
+ border-radius: 11px;
+ 
+ 
+}
+h1{
+ color: rgb(118, 118, 243);
+}
+.App{
+  margin-top: 100px;
+  background: white;
+  height: 290px;
+  width: 250px;
+  margin-left: 200px;
+}
+.inputs{
+  margin: 30px; 
+}
+.inputs input{
+  background: rgb(183, 183, 235);
+}
+.inputs placeholder{
+
+}
+.contents .enter{
+
+}
+.new{
+  margin-top: 10px;
+}

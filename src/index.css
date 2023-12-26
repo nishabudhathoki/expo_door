@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-image: linear-gradient(purple 40% , blue 70% );
+  min-height: 100vh;
+ }
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
